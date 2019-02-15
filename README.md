@@ -14,3 +14,5 @@ Dette er en Mergeconflict i github browseren
 
 
 Jeg pusher det her
+
+Jeg puller det her
