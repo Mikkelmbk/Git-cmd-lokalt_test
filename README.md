@@ -9,3 +9,4 @@
 ## Hej
 
 ### Redigeret indhold på github hjemmeside, klar til at blive pullet
+**Dette er en mergeConflict code i editoren
